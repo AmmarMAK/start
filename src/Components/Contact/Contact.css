@@ -1,0 +1,17 @@
+.contact-line {
+  border: 2px solid black;
+  width: 100px;
+  margin: 20px;
+}
+
+#submit{
+  background-color: #1abc9c;
+  color: white;
+}
+
+.mt-10{
+  margin-top: 10px;
+}
+.mb-10{
+  margin-bottom: 10px;
+}

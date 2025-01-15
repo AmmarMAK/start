@@ -1,0 +1,11 @@
+.active{
+    color: white !important;
+    background-color: #1abc9c !important;
+    border: solid #1abc9c !important;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    padding: 5px 10px !important;
+}
